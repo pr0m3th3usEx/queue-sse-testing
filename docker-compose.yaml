@@ -1,0 +1,7 @@
+services:
+  rabbitmq:
+    container_name: queue
+    image: rabbitmq:4.0-management
+    ports:
+      - 5672:5672
+      - 15672:15672
