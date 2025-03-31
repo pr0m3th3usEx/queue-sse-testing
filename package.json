@@ -1,7 +1,7 @@
 {
-  "name": "pnpm-ts-monorepo-boilerplate",
+  "name": "rabbit-rpc-testing",
   "version": "1.0.0",
-  "description": "A simple boilerplate for your typescript monorepo projects using pnpm and Turborepo",
+  "description": "Simple PoC for RabbitMQ RPC",
   "keywords": [
     "boilerplate",
     "typescript",
@@ -12,9 +12,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pr0m3th3usEx/pnpm-ts-monorepo-boilerplate.git"
+    "url": "https://github.com/pr0m3th3usEx/rabbit-rpc-testing.git"
   },
-  "homepage": "https://github.com/pr0m3th3usEx/pnpm-ts-monorepo-boilerplate",
+  "homepage": "https://github.com/pr0m3th3usEx/rabbit-rpc-testing",
   "scripts": {
     "build": "turbo build",
     "dev": "turbo dev",
